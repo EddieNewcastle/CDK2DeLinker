@@ -1,4 +1,4 @@
-name: DeLinker-env
+name: DeLinker
 channels:
   - rdkit
   - conda-forge
