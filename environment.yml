@@ -5,6 +5,7 @@ channels:
   - anaconda
   - defaults
 dependencies:
+  - tensorflow
   - _tflow_1100_select=0.0.1=gpu
   - astor=0.7.1=py36_0
   - blas=1.0=mkl
