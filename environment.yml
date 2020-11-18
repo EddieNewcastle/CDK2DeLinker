@@ -5,7 +5,6 @@ channels:
   - anaconda
   - defaults
 dependencies:
-  - tensorflow
   - _tflow_1100_select=0.0.1=gpu
   - astor=0.7.1=py36_0
   - blas=1.0=mkl
@@ -67,8 +66,8 @@ dependencies:
   - sip=4.19.13=py36he6710b0_0
   - sqlite=3.25.3=h7b6447c_0
   - tensorboard=1.10.0=py36hf484d3e_0
-  - tensorflow=1.10.0=gpu_py36hcebf108_0
-  - tensorflow-base=1.10.0=gpu_py36had579c0_0
+  - tensorflow=1.10.0
+  - tensorflow-base=1.10.0
   - tensorflow-gpu=1.10.0=hf154084_0
   - tk=8.6.8=hbc83047_0
   - tornado=6.0.3=py36h7b6447c_0
