@@ -9,7 +9,7 @@ dependencies:
   - astor=0.7.1=py36_0
   - blas=1.0=mkl
   - bzip2=1.0.6=h14c3975_5
-  - c-ares-1.17.1-h27cfd23_0
+  - c-ares=1.17.1=h27cfd23_0
   - ca-certificates=2018.03.07=0
   - cairo=1.14.12=h8948797_3
   - certifi=2018.10.15=py36_0
