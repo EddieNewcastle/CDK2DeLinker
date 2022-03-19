@@ -6,7 +6,7 @@ channels:
   - defaults
 dependencies:
   - _tflow_1100_select=0.0.1=gpu
-  - astor
+  - astor-0.5-py36_0.tar.bz2
   - blas
   - bzip2
   - c-ares
